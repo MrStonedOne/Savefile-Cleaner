@@ -86,10 +86,5 @@ mob
 				src << "Okay. I won't"
 
 
-
-proc/get_save_file_version(file)
-
-
-
 var/list/saves
 var/total
